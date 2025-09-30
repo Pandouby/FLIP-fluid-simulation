@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "software",
+			"path": "."
+		},
+		{
+			"name": "Common",
+			"path": "..\\Common"
+		},
+		{
+			"name": "SensorFeatherWing",
+			"path": "..\\..\\SensorFeatherWing\\software\\lib"
+		},
+	],
+	"settings": {
+		"files.associations": {
+			"*.h": "c",
+			"*.c": "c",
+			"*.cpp": "cpp"
+		},
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true
+	}
+}
